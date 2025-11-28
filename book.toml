@@ -2,3 +2,6 @@
 title = "primer libro"
 authors = ["hansnone"]
 language = "es"
+[build]
+# Cambia "book" por "docs"
+build-dir = "docs"
